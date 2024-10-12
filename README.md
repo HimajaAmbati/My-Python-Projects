@@ -5,4 +5,4 @@ PROJECT 1:
 
 
 PROJECT 2:
-    THhe project is fake news detector.I have built it using Machine learning algorithm.Using sklearn, I built a TfidfVectorizer on the dataset. Then, initialized a PassiveAggressive Classifier and fit the model and I got an accuracy of 92% .
+    The project is fake news detector.I have built it using Machine learning algorithm.Using sklearn, I built a TfidfVectorizer on the dataset. Then, initialized a PassiveAggressive Classifier and fit the model and I got an accuracy of 92% .
